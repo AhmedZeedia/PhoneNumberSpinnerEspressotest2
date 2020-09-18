@@ -1,0 +1,4 @@
+#Thu Sep 17 21:25:52 CDT 2020
+base.0=C\:\\Users\\azeedia\\Downloads\\android-fundamentals-apps-v2-master\\android-fundamentals-apps-v2-master\\PhoneNumberSpinnerEspresso\\app\\build\\intermediates\\transforms\\dexMerger\\androidTest\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
